@@ -8,6 +8,15 @@ It uses a stripped down rfcat (copied from https://github.com/atlas0fd00m/rfcat)
 
 To use it without root privileges, check out udev rules at rfcat/etc.
 
+## Why?
+
+I am currently using this, to send correct outside temperature and humidity values without using
+the original outside transmitters, which need batteries and have an overall weak performance and stability.
+
+## But
+
+Use at your own responsibility. It may be illegal to transmit radio signals depending on where you are.
+
 ## Hardware used
 
   * Yard Stick One
